@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://kamal:kamal@cluster0.gee8v.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+
+"jwtSecret":"kamaljoshiisgreat"
+}
